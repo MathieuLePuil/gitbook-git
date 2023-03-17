@@ -22,7 +22,7 @@ Le dernier point vert ici représente le site final après la fusion de la versi
 
 ## Github
 
-Github permet de sauvegarder (gratuitement) tout le code et donne l'accès à celui-ci n'importe où. Vous pouvez également collaborer très facilement avec d'autres personnes sur votre projet. Vous pouvez aussi travailler sur les sites open source grâce à git et Github.
+Github permet de sauvegarder (gratuitement) tout le code dans un repository et donne l'accès à celui-ci n'importe où. Vous pouvez également collaborer très facilement avec d'autres personnes sur votre projet. Vous pouvez aussi travailler sur les sites open source grâce à git et Github.
 
 Github possède un outil qui permet de régler les bugs rapidement et qui nous fera gagner notre projet en visibilité.
 

@@ -44,5 +44,22 @@ Il existe beaucoup de moyen de télécharger Git. Prenez celui que vous préfér
 Une fois qu'il est installé, rendez-vous dans votre Terminal (MacOS et Linux) ou dans votre invite de commande / PowerShell (Windows). Tapez ensuite la commande :&#x20;
 
 ```sh
-gita h
+git
+```
+
+Si rien ne s'affiche et que la commande ne fonctionne pas, n'hésitez pas à demander de l'aide.
+
+## Configuration
+
+Entrez les commandes suivantes pour configurer un pseudonyme et une adresse mail :&#x20;
+
+```sh
+git config --global user.name "Username"
+git config --global user.email "mail@mail.com"
+```
+
+Nous allons maintenant indiqué à Git que notre branche principale se nommera toujours main :&#x20;
+
+```sh
+git config --global init.defaultBranch main
 ```

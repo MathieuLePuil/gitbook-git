@@ -130,7 +130,7 @@ Créez un fichier `serveur.txt` vide. Ajoutez le à l'espace de stage et faites 
 
 Disons que notre nouvelle fonctionnalité est terminée et que nous voulons l'ajouter à la branche "main". Pour cela, nous allons faire un **merge**. Il s'agit d'une fusion des deux branches. Nous allons ainsi garder les changements de la branche "main" (serveur.txt) mais également ajouter ceux de la branche "fonctionnalite" (fonction.txt et appel de celle-ci). Vérifiez avant tout que vous êtes bien dans la branche "main" et faites :&#x20;
 
-```
+```sh
 git merge fonctionnalite -m "Commentaire de merge"
 ```
 
